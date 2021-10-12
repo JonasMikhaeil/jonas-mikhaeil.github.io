@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV]{files/jm_CV.pdf}
+
 Education
 ======
 since Nov 2020
