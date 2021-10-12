@@ -49,7 +49,7 @@ Oct 2016 - Jul 2020
 
 * Scholarship holder
 
-  Merit-based and awarded to fewer than 0.5% of German students to support students that can be expected to make an outstanding contribution to society as a whole.
+  Merit-based and awarded to fewer than **0.5%** of German students with the goal to support young people that can be expected to make an outstanding contribution to society as a whole.
 
 Reseach experience
 ======
