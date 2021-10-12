@@ -9,21 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-[Full CV]{files/jm_CV.pdf}
+[Full CV](files/jm_CV.pdf)
 
 Education
 ======
 since Nov 2020
 
-* M.Sc. Physics, [Heidelberg ]{https://www.physik.uni-heidelberg.de/studium/master?lang=en}, Germany
+* M.Sc. Physics, [Heidelberg ](https://www.physik.uni-heidelberg.de/studium/master?lang=en), Germany
 
   *Scholarship*: German Academic Scholarship Foundation
 
-* M.A. Philosophy, [Heidelberg ]{https://www.uni-h, Germany, Spring 2022
+* M.A. Philosophy, [Heidelberg ](https://www.uni-heidelberg.de/md/philsem/studienberatung/master_engl.pdf), Germany, Spring 2022
 
 Oct 2016 - Jul 2020
 
-* B.Sc. PhysicsPhysics, [Heidelberg ]{https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-bachelor-100}, Germany
+* B.Sc. PhysicsPhysics, [Heidelberg ](https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-bachelor-100), Germany
 
 2008 - 2016
 
