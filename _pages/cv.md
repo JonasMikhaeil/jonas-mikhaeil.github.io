@@ -72,7 +72,7 @@ Oct 2019 -  Mar 2021
 
 Apr 2019 - Jul 2019
 
-* [Bachelor's thesis](files/BA_jm.pdf) at [Desy](https://www.desy.de/index_eng.html), Hamburg, Germany
+* [Bachelor's thesis](./../files/BA_jm.pdf) at [Desy](https://www.desy.de/index_eng.html), Hamburg, Germany
 
   Topological Shower Reconstruction in a Highly Granular Calorimeter with Optical Readout
 
