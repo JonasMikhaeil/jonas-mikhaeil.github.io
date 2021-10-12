@@ -51,6 +51,25 @@ Oct 2016 - Jul 2020
 
   Merit-based and awarded to fewer than **0.5%** of German students with the goal to support young people that can be expected to make an outstanding contribution to society as a whole.
 
+Publications
+======
+
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+Talks
+======
+
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+
+
+======
+
 Reseach experience
 ======
 
@@ -94,18 +113,6 @@ Oct 2017 - Mar 2018
 
   Embedded Software Development for Zynq UltraScale+ MPSoC intended for the ATLAS Level-1 Calorimeter Trigger Upgrade
 
-Publications
-======
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 Teaching
 ======
