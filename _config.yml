@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Jonas Mikhaeil"
-  avatar           : "images/profile.jpeg"
-  bio              : "Test"
+  avatar           : "profile.jpeg"
+  bio              : "Student of physics and philosophy at Heidelberg University with a passion for statistics. Let's try and leave the world a little better than we found it... "
   location         : "Heidelberg University"
   employer         : "ZI-Mannheim"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "mikhaeil@stud.uni-heidelberg.de"
+  pubmed           : 
+  googlescholar    : 
+  email            : "jonas.mikhaeil@zi-mannheim.de"
   researchgate     :
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-6745-7505"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@jonas_mikhaeil"
   vine             :
   weibo            :
   xing             :
