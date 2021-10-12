@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A link to my [full CV](files/jm_CV.pdf)
+A link to my [full CV](./../files/jm_CV.pdf)
 
 Education
 ======
@@ -43,7 +43,7 @@ Oct 2016 - Jul 2020
 
 * Studying before Abitur
 
-*All gerade above are on a scale from 1 to 5 (with 1.0 being the best possible grade).
+*All grades above are on a scale from 1 to 5 (with 1.0 being the best possible grade).
 
 ## German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)
 
@@ -64,7 +64,7 @@ Since Mar 2021
 
 Oct 2019 -  Mar 2021
 
-* Research assistant in the Dept. of Theoretical Neuroscience ([DurstewitzLab](https://durstewitzlab.github.io)), [CIMH](https://www.zi-mannheim.de/en.html), Mannheim
+* Research assistant in the Dept. of Theoretical Neuroscience (*[DurstewitzLab](https://durstewitzlab.github.io)*), [CIMH](https://www.zi-mannheim.de/en.html), Mannheim
 
   Research on invariant phase-space quantities of dynamical systems with the goal of developing a new loss function for RNN training
 
@@ -112,7 +112,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
