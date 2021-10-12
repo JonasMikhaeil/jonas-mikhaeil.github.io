@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Dynamical Systems Theory in Machine Learning & Data Science"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching assistant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Heidelberg University, Faculty for Physics & Astronomy"
+date: "Oct 2021 - Mar 2022"
+location: "Heidelberg, Germany"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+asdasd
