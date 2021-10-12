@@ -15,17 +15,29 @@ Education
 ======
 since Nov 2020
 
-> M.Sc. Physics, [Heidelberg ]{https://www.physik.uni-heidelberg.de/studium/master?lang=en}, Germany
+* M.Sc. Physics, [Heidelberg ]{https://www.physik.uni-heidelberg.de/studium/master?lang=en}, Germany
 
->M.A. Philosophy, [Heidelberg ]{https://www.uni-h, Germany, Spring 2022
+  *Scholarship*: German Academic Scholarship Foundation
+
+* M.A. Philosophy, [Heidelberg ]{https://www.uni-h, Germany, Spring 2022
 
 Oct 2016 - Jul 2020
 
-> B.Sc. PhysicsPhysics, [Heidelberg ]{https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-bachelor-100}, Germany
+* B.Sc. PhysicsPhysics, [Heidelberg ]{https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-bachelor-100}, Germany
 
 2008 - 2016
 
-> Secondary Education - Abitur at Gymnasium an der Gartenstraße, Mönchengladbach, Germany
+* Secondary Education - Abitur at Gymnasium an der Gartenstraße, Mönchengladbach, Germany
+
+2013 - 2016
+
+* Studying before Abitur
+
+# Scholarship
+
+## German Academic Scholarship Foundation (Studienstiftung des deutschen Volkes)
+
+Merit-based, granted to less than 0.5% of German students, awarded for academic excellency and outstanding contributions to society.
 
 Work experience
 ======
