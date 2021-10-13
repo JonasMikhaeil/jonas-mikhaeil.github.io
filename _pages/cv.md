@@ -29,7 +29,7 @@ Oct 2016 - Jul 2020
 
 * B.Sc. Physics, [Heidelberg ](https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-bachelor-100), Germany
 
-  Bachelor's Thesis: 1.0 
+  [Bachelor's thesis](./../files/BA_JM.pdf): 1.0 
 
   Final average: 1.2 
 
@@ -87,7 +87,7 @@ Oct 2019 -  Mar 2021
 
 Apr 2019 - Jul 2019
 
-* [Bachelor's thesis](./../files/BA_jm.pdf) at [DESY](https://www.desy.de/index_eng.html), Hamburg, Germany
+* [Bachelor's thesis](./../files/BA_JM.pdf) at [DESY](https://www.desy.de/index_eng.html), Hamburg, Germany
 
   Topological Shower Reconstruction in a Highly Granular Calorimeter with Optical Readout
 
