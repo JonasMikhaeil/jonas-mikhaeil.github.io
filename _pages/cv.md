@@ -37,6 +37,10 @@ Oct 2016 - Jul 2020
 
 * Secondary Education - Abitur at Gymnasium an der Gartenstraße, Mönchengladbach, Germany
 
+  *Valedictorian*
+
+  *Abitur Award of the German Physical Society (DPG)*
+
   Final average: 1.0 
 
 2013 - 2016
