@@ -6,10 +6,11 @@ excerpt: 'In many scientific disciplines, we are interested in inferring the non
 date: 'Oct 2021'
 venue: '*tbd*'
 paperurl: ''
-citation: ''
+citation: 'Brenner,M.∗,Bereska,L.∗,Mikhaeil,J.,Hess,F.,Monfared,Z.,Kuo,P.&Durstewitz,D.(2021).Tractable
+Dendritic RNNs for Identifying Unknown Nonlinear Dynamical Systems. submitted to ICLR'
 ---
 This paper is about how to extend PLRNNs with principles of dendritic computation.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Citation: Brenner,M.∗,Bereska,L.∗,**Mikhaeil,J.**,Hess,F.,Monfared,Z.,Kuo,P.&Durstewitz,D.(2021). *Tractable Dendritic RNNs for Identifying Unknown Nonlinear Dynamical Systems*. submitted to ICLR
