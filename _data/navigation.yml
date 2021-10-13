@@ -8,7 +8,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+ 
+  - title: "Research experience"
+    url: /portfolio/    
+      
   - title: "Essays"
     url: /year-archive/
     

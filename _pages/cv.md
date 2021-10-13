@@ -21,15 +21,15 @@ since Nov 2020
 
   Current average: 1.0*
 
-* M.A. Philosophy, [Heidelberg ](https://www.uni-heidelberg.de/md/philsem/studienberatung/master_engl.pdf), Germany, Spring 2022
+* M.A. Philosophy, [Heidelberg ](https://www.uni-heidelberg.de/md/philsem/studienberatung/master_engl.pdf), Germany
 
   Current average: 1.2
 
 Oct 2016 - Jul 2020
 
-* B.Sc. PhysicsPhysics, [Heidelberg ](https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-bachelor-100), Germany
+* B.Sc. Physics, [Heidelberg ](https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-bachelor-100), Germany
 
-  Thesis: 1.0 
+  Bachelor's Thesis: 1.0 
 
   Final average: 1.2 
 
@@ -41,7 +41,7 @@ Oct 2016 - Jul 2020
 
 2013 - 2016
 
-* Studying before Abitur
+* Studying before Abitur at the Heinrich-Heine University, Düsseldorf
 
 *All grades above are on a scale from 1 to 5 (with 1.0 being the best possible grade).
 
@@ -87,7 +87,7 @@ Oct 2019 -  Mar 2021
 
 Apr 2019 - Jul 2019
 
-* [Bachelor's thesis](./../files/BA_jm.pdf) at [Desy](https://www.desy.de/index_eng.html), Hamburg, Germany
+* [Bachelor's thesis](./../files/BA_jm.pdf) at [DESY](https://www.desy.de/index_eng.html), Hamburg, Germany
 
   Topological Shower Reconstruction in a Highly Granular Calorimeter with Optical Readout
 
@@ -99,7 +99,7 @@ Oct 2018
 
 Jul 2018 - Sep 2018
 
-* Intern at [Desy's Summer Student Program](https://www.google.com/search?client=safari&rls=en&q=desy+summer+program+2018&ie=UTF-8&oe=UTF-8), Hamburg, Germany
+* Intern at [DESY's Summer Student Program](https://www.google.com/search?client=safari&rls=en&q=desy+summer+program+2018&ie=UTF-8&oe=UTF-8), Hamburg, Germany
 
   Time Resolution Studies of CALICE’s Analog Hadron Calorimeter at DESY’s Future Lepton Col- lider group
 
