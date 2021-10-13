@@ -1,5 +1,5 @@
 ---
-title: "Invariant phase-space measures to train SVAE"
+title: "Invariant phase-space measures for SVAE training"
 excerpt: "Overlap in Attractor Geometry as loss function for SVAE training"
 collection: portfolio
 ---
