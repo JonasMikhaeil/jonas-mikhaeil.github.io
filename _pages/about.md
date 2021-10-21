@@ -36,7 +36,7 @@ I'm currently working at the DurstewitzLab in the field of *dynamical systems re
 
 All this theory is interesting in its own right, but I'm sure learning how to understand the world despite its complexity will allow us to leave the world a little better than we found it... 
 
-If you have questions, insights, criticsm or more generally a topics you'd like to discuss, please feel free to [reach out](jonas.mikhaeil@zi-mannheim.de).
+If you have questions, insights, criticsm or more generally a topic you'd like to discuss, please feel free to [reach out](jonas.mikhaeil@zi-mannheim.de).
 
  
 
