@@ -30,7 +30,7 @@ In physics, we generally know the equations governing the microscopic but need m
 
 The answer is that a lot of domain knowledge is (and always will be) required. I'm interested in developing techniques to support this process of modelling by inferring models from data.
 
-I'm currently working at the DurstewitzLab in the field of *dynamical systems reconstruction*. The idea is, that underlying every time-series there is a (hidden) process generating the data, a dynamical system. With the help of a special kind of recurrent neural network, we try to recover these underlying dynamics to be able to study the process in itself, instead of just one realization of it.
+I'm currently working at the DurstewitzLab in the field of *dynamical systems reconstruction*. The idea is that underlying every time series there is a (hidden) stochastic process generating the data. With the help of a special kind of recurrent neural network, we try to recover these underlying dynamics to  study the process in itself(with tools from dynamical systems theory), instead of just one realization of it.
 
 **Improving the world**
 
