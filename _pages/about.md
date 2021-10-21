@@ -12,7 +12,7 @@ Hey, I'm Jonas!
 
 I'm a student in the beautiful city of Heidelberg, Germany. Here I'm currently pursuing both a MSc in physics and a MA in philosophy at Heidelberg University.
 
-My true passion lies in the question of how we can arrive at understandable macroscopic *descriptions of nature and society*, which are intricately complex on their microscopic scale. 
+My true passion lies in the question of how we can arrive at understandable macroscopic *descriptions of nature and society*, which are both intricately complex on their microscopic scale. 
 
 **What we can learn from statistical physics**
 
@@ -32,7 +32,7 @@ The answer is that a lot of domain knowledge is (and always will be) required. I
 
 I'm currently working at the DurstewitzLab in the field of *dynamical systems reconstruction*. The idea is, that underlying every time-series there is a (hidden) process generating the data, a dynamical system. With the help of a special kind of recurrent neural network, we try to recover these underlying dynamics to be able to study the process in itself, instead of just one realization of it.
 
- ### Improving the world
+**Improving the world**
 
 All this theory is interesting in its own right, but I'm sure learning how to understand the world despite its complexity will allow us to leave the world a little better than we found it... 
 
