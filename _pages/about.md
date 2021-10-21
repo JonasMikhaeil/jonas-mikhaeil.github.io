@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Let's try and leave the world a little better than we found it... "
+title: "The world is complex, if we want to learn something about it, we need to use statistics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,11 +12,11 @@ Hey, I'm Jonas!
 
 I'm a student in the beautiful city of Heidelberg, Germany. Here I'm currently persuing both a MSc in physics and a MA in philosophy at Heidelberg University.
 
-My true passion lies in the question how we can arrive at understandable macroscopic discriptions of nature and society, which are intricitaly complex on their microscopic scale. 
+My true passion lies in the question of how we can arrive at understandable macroscopic *discriptions of nature and society*, which are intricitaly complex on their microscopic scale. 
 
 ### What we can learn from statistical physics
 
-This is a question at the heart of physics, think for example of the complex behaviour of the myriad of particles in the room you are currently sitting in: On a macroscopic scale, all of this is describable in the interplay of two quantities, temperature and pressure. In its most fundamental, this move from the microscopic to the macroscopic is the domain of statistical physics. If we move to infinietly many degrees of freedom, we are in the regime of quantum field theory (QFT). Note though, that the techniques of QFT not only apply to quantum systems, they apply to every stochastical system. A more accurate name for QFT would actually be *statistical field theory*.
+This is a question at the heart of physics, think for example of the complex behaviour of the myriad of particles in the room you are currently sitting in. On a macroscopic scale, all of this is describable in the interplay of two quantities: temperature and pressure. In its most fundamental, this move from the microscopic to the macroscopic is the domain of statistical physics. If we move to infinietly many degrees of freedom, we are in the regime of quantum field theory (QFT). Note though, that the techniques of QFT not only apply to quantum systems, they apply to every stochastical system. A more accurate name for QFT would actually be *statistical field theory*.
 
 ### Complexity is everywhere
 
