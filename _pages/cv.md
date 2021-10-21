@@ -73,7 +73,7 @@ Talks
 Reseach experience
 ======
 
-## Time series, dynamical systems and machine learning
+## Time series, statistical machine learning
 
 Since Mar 2021
 
