@@ -16,17 +16,17 @@ My true passion lies in the question of how we can arrive at understandable macr
 
 **What we can learn from statistical physics**
 
-This is a question at the heart of physics, think for example of the complex behavior of the myriad of particles in the room you are currently sitting in. On a macroscopic scale, all of this is describable in the interplay of two quantities: temperature and pressure. In its most fundamental, this move from the microscopic to the macroscopic is the domain of statistical physics. If we move to infinitely many degrees of freedom, we are in the regime of quantum field theory (QFT). Note though, that the techniques of QFT not only apply to quantum systems, but they also apply to every stochastical system. A more accurate name for QFT would be *statistical field theory*.
+This is a question at the heart of physics, think for example of the complex behavior of the myriad of particles in the room you are currently sitting in. On a macroscopic scale, all of this is describable in the interplay of two quantities: temperature and pressure. In its most fundamental, this move from the microscopic to the macroscopic is the domain of statistical physics. If we move to infinitely many degrees of freedom, we are in the regime of quantum field theory (QFT). Note though, that the techniques of QFT not only apply to quantum systems, but they also apply to stochastical system more generally. A more accurate name for QFT would be *statistical field theory*.
 
 **Complexity is everywhere**
 
-The question of useful macroscopic descriptions of systems that are too complex to comprehend on their fundamental level, is broadly relevant and is not restricted to the description of physical phenomena. Many social or economic questions we are interested in as a society run into the same problem. Descriptions on the fundamental level of these systems, the level of the individual, are hopeless because of the sheer number of people in our society and the complexity of our interactions. The same problem faces neuroscience. A description of the entire brain on the level of single neurons, even if available, would be entirely incomprehensible to us humans. 
+The question of useful macroscopic descriptions of systems, that are too complex to comprehend on their fundamental level, is broadly relevant and is not restricted to the description of physical phenomena. Many social or economic questions we are interested in as a society run into the same problem. Descriptions on the fundamental level of these systems, the level of the individual, are hopeless because of the sheer number of people in our society and the complexity of our interactions. The same problem faces neuroscience. A description of the entire brain on the level of single neurons, even if available, would be entirely incomprehensible to us humans. 
 
 *Our world in its microscopic intricacy is too complex for us to understand*. We need to find sensible abstractions to move to a macroscopic level, that we can make sense of. This will always require statistics!
 
 **Models from data**
 
-In physics, we generally know the equations governing the microscopic but need methods to move to a macroscopic description to make predictions. This is entirely different for other fields. Here we often do not know the underlying microscopic dynamics, or, as in the realm of the social, mathematical regularities only arise on an aggregate scale. But how can we then arrive at a description of these phenomenon?
+In physics, we generally know the equations governing the microscopic but need methods to move to a macroscopic description to make predictions. This is entirely different for other fields. Here we often do not know the underlying microscopic dynamics or, as in the realm of the social, mathematical regularities only arise on an aggregate scale. But how can we then arrive at a description of these phenomenon?
 
 The answer is that a lot of domain knowledge is (and always will be) required. I'm interested in developing techniques to support this process of modelling by inferring models from data.
 
