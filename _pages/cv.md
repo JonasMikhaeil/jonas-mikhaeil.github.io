@@ -85,7 +85,7 @@ Oct 2019 -  Mar 2021
 
 * Research assistant in the Dept. of Theoretical Neuroscience (*[DurstewitzLab](https://durstewitzlab.github.io)*), [CIMH](https://www.zi-mannheim.de/en.html), Mannheim
 
-  Research on invariant phase-space quantities of dynamical systems with the goal of developing a new loss function for RNN training
+  Research on invariant properties of dynamical systems with the goal of developing new evaluation measures for dynamical systems reconstruction and to improve the training of sequential variational autoencoder
 
 ## Particle physics
 
