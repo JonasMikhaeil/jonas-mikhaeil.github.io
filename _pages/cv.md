@@ -13,7 +13,7 @@ A link to my [full CV](./../files/jm_CV.pdf)
 
 Education
 ======
-since Nov 2020
+since Apr. 2020
 
 * M.Sc. Physics, [Heidelberg ](https://www.physik.uni-heidelberg.de/studium/master?lang=en), Germany
 
@@ -25,7 +25,7 @@ since Nov 2020
 
   Current average: 1.2
 
-Oct 2016 - Jul 2020
+Oct 2016 - Feb 2020
 
 * B.Sc. Physics, [Heidelberg ](https://www.uni-heidelberg.de/en/study/all-subjects/physics/physics-bachelor-100), Germany
 
